@@ -1,0 +1,7 @@
+*** Problem Statement ***
+
+Consider the initial value problem:
+$$
+x'(t)=(t-1)\cdot x^2(t),
+$$
+with $x(0)=-8$. Find $x(1)$.
