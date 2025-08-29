@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+ A finite group G is called a filled group if all the maximum by inclusion product-free sets in G fills G. What are the finite filled nilpotent groups? 
