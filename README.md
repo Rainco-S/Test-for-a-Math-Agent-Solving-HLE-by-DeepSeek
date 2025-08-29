@@ -5,6 +5,8 @@ I've switched the module from Gemini and so on to DeepSeek v3.
 
 Using this single agent to solve HLE problems from Hugging Home.(https://huggingface.co/datasets/cais/hle)
 
+For the problems that the agent found an answer, I changed the log files' name ended with "_s", others without this all are unsolved.
+
 When I try to run the code in GPU, I figured out that it really takes a long time(about 6 to 8 hours) to finish running an entire problem, but the result doesn't change between runs and errors. So in "agent_ds.py", I changed the number of max_runs from 10 to 2 from the original agent as I found running 10 times does't affect the result "find no answer" or "find a correct answer" in attempting problem0001, problem0002 and the six imo problems in the initial github page. Additionally, I changed the times of errors that can end the cycle from 10 to 5.
 
 In "dataset.py" I used HLE in Hugging Face website, to download it, I used a loacal path in my laptop, you can download the problem files directly from the repositary, or change the local path in the python file.
