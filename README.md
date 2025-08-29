@@ -1,6 +1,14 @@
 # Test-for-a-Math-Agent-Solving-HLE-by-DeepSeek
-Using the agent created by LinYang (https://github.com/lyang36/IMO25/blob/main/README.md), changing the module to DeepSeek v3 to solve HLE problems from Hugging Home (https://huggingface.co/datasets/cais/hle)
+Agent is created by LinYang.(https://github.com/lyang36/IMO25/blob/main/README.md)
+
+I've switched the module from Gemini and so on to DeepSeek v3.
+
+Using this single agent to solve HLE problems from Hugging Home.(https://huggingface.co/datasets/cais/hle)
+
 When I try to run the code in GPU, I figured out that it really takes a long time(about 6 to 8 hours) to finish running an entire problem, but the result doesn't change between runs and errors. So in agent_ds.py, I changed the number of max_runs from 10 to 2 from the original agent as I found running 10 times does't affect the result "find no answer" or "find a correct answer" in attempting problem0001, problem0002 and the six imo problems in the initial github page. Additionally, I changed the times of errors that can end the cycle from 10 to 5.
+
 In dataset.py I used HLE in Hugging Face website, to download it, I used a loacal path in my laptop, you can download the problem files directly from the repositary, or change the local path in the python file.
+
 In test.py, the base command is fitted to the GPU cluster I used, to save the log files into your computer or GPU, be awared to change the file path.
+
 When I ran the code in my laptop and in GPU cluster, the later one was only about 3 times faster, taking about 30-40 minutes per problem, I wonder if it's due to DeepSeek.
