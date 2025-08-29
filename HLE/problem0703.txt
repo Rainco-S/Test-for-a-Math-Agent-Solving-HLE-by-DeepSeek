@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+How many wallpaper groups with point group of order 2 are there?

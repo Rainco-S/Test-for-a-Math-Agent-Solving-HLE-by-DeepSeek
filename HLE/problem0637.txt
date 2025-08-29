@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+What is the first two non-zero digit of the decimal representation of $e^{-7^{13}}$?
