@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Find the first 3 digits after the comma of tan(10^100)
