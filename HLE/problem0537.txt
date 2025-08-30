@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-For the graph shown in the figure, compute the chromatic polynomial. 

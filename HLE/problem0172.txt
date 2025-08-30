@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-What is the smallest number of composants (not components) an indecomposable (not necessarily metric) continuum can have?

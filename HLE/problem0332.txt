@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-How many power subgroups are there in the semidihedral group of size 512?

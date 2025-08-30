@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-What is the Rasmussen invariant of the knot in the attached picture?

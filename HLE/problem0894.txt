@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-How many categories with 3 morphisms and one object are there, up to isomorphism?

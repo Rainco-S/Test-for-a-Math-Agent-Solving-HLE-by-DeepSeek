@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-What is the order type of the set of finite strings of characters $\{a,b,c,d\}$ ordered lexically?

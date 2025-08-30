@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-The attached image shows a finite patch of a tiling, what is the rotational symmetry of that tiling?

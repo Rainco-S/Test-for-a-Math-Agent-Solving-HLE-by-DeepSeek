@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-Fourteen circles of radius one are tightly packed into another circle. What is the radius of this circle up to 4 significant digits?

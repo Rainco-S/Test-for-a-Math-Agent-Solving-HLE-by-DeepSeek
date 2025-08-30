@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-How many finite groups contain maximal by inclusion product-free sets of size 3?

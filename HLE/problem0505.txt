@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-Consider the Gauss class number problem. What is the number of negative fundamental discriminants with class number 48?

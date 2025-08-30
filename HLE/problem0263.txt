@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-How many higher dimensional rooted forests $(F,R)$ of the standard triangulation of the Möbius band fail to have the forest $F$ simplicially collapse onto the root $R$?

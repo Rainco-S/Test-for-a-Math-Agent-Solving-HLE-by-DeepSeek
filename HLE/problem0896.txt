@@ -1,3 +1,0 @@
-*** Problem Statement ***
-
-Let $d = 53599$. Find the number of primitive Dirichelt characters $\chi$ of conductor $d$ and order $6$.
