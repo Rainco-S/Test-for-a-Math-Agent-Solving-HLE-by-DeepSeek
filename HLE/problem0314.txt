@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+ How many power subgroups are there in the generalized quaternion group of size 128?
