@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+How many independent entries does the Riemann tensor on a Kähler manifold have?
