@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+What is the dimension of the Lie group of symmetries of the incompressible Navier-Stokes equations in $\mathbb{R}$^3?
