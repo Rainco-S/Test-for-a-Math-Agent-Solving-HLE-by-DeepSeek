@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Consider a barbell graph with 10 nodes and uniform weights. What is the probability of sampling the bottleneck edge in randomized uniform gossiping?

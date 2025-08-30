@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+How many subgroups of index 4 does the Grigorchuk group have?
