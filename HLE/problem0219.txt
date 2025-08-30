@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+How many homeomorphism classes are there of homogeneous planar continua?
