@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+Compute the continued fraction associated with the generalized Markov number \( m_{4/7} \).
