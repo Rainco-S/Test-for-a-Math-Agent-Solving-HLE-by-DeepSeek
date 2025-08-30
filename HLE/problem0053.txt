@@ -1,0 +1,3 @@
+*** Problem Statement ***
+
+What is the Alon-Tarsi number of $K_{1000,1000}$?
