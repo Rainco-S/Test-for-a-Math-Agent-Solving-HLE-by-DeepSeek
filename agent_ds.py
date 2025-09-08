@@ -284,7 +284,10 @@ def build_request_payload(system_prompt, question_prompt, other_prompts=None):
         "model": MODEL_NAME,
         "messages": messages,
         "temperature": 0.9,
-        "max_tokens": 4096  # 根据需要调整
+        "max_tokens": 32768,
+        "thinking": {
+            "type": "enabled"  # 深度思考
+        }
     }
 
     return payload
